@@ -1,0 +1,7 @@
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/Shopping.Client
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/appsettings.Development.json
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/appsettings.json
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/Shopping.Client.dll
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/Shopping.Client.deps.json
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/Shopping.Client.runtimeconfig.json
+/Users/deepikakumari/Desktop/Projects/devops-run/Shopping/Shopping.Client/out/Shopping.Client.pdb
